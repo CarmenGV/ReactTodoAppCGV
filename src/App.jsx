@@ -9,41 +9,41 @@ function App() {
   const initialData = [
     {
       id: 1,
-      title: 'Pay electric bill',
-      description: 'Pay the electric bill by the end of the month',
-      due: '10/30/2024',
+      title: 'Draft Email Response',
+      description: 'Reply to John Smith about presentation.',
+      due: '05/14/2025',
       completed: false,
       category: 'high'
     },
     {
       id: 2, 
-      title: 'Pay rent',
-      description: 'Pay apartment rent by the end of the month',
-      due: '10/30/2024',
+      title: 'Project Falcon',
+      description: 'Prepare presentation',
+      due: '05/12/2025',
       completed: false,
       category: 'high'
     },
     {
       id: 7,
-      title: "Fill up gas tank",
-      description: 'Fill up gas tank on Thursday before Vermont trip',
-      due: '10/24/2024',
+      title: "Schedule Team Meeting",
+      description: 'Tentatively schedule team meeting for Friday the 16th',
+      due: '05/12/2025',
       completed: false,
       category: 'medium'
     },
     {
       id: 3,
-      title: 'Buy baby gift',
-      description: 'Buy baby gift for brother and sister in-laws upcoming visit',
-      due: '10/22/2024',
+      title: 'Schedule monthly payments',
+      description: 'Schedule next months\' monthly payments',
+      due: '05/19/2025',
       completed: false,
       category: 'low'
     },
     {
       id: 10,
-      title: 'Do Laundry',
-      description: 'Do all laundry before trip to Vermont',
-      due: '10/22/2024',
+      title: 'Buy Groceries',
+      description: 'Buy groceries for the week.',
+      due: '05/12/2025',
       completed: true,
       category: 'low'
     }
