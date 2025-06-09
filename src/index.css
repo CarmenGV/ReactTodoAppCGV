@@ -80,7 +80,6 @@ button:focus-visible {
 }*/
 
 footer{
-  border-top:1px dotted var(--textbox-highlight);
   color:var(--text-white);
   font-weight:400;
   font-size:12px;
